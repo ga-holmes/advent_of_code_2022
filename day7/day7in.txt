@@ -12,7 +12,13 @@ dir e
 62596 h.lst
 $ cd e
 $ ls
+dir no
 584 i
+$ cd no
+$ ls
+100 po
+1000 jo
+$ cd ..
 $ cd ..
 $ cd ..
 $ cd d
